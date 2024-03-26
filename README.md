@@ -95,17 +95,17 @@
   <br>
 </details>
 <details>
-  <summary>Youtube Channel Videos</summary>
+  <summary>My Videos</summary>
   <br/>
   <div>
   <samp>
-    <h2 align="center">Youtube Chanenel Videos</h2>
+    <h2 align="center">Youtube Channel Videos</h2>
     <p align="center">
       <table>
 <tbody><tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc" rel="nofollow">
-<img src="https://camo.githubusercontent.com/81477b4578bab956813ff058efc42874f6e0b54a0006dec3fba00e6c15e66559/687474703a2f2f69332e7974696d672e636f6d2f76692f4b70344d7661706f356b632f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="max-width: 100%;">
+<a href="[https://youtu.be/Kp4Mvapo5kc](https://youtu.be/BzM6FEN9X18?si=pfdkJkjQJe7RGhzY)" rel="nofollow">
+<img src="https://i.ytimg.com/an_webp/BzM6FEN9X18/mqdefault_6s.webp?du=3000&sqp=CO67jLAG&rs=AOn4CLDv8KPooWRFI5KX_HVn0TxM84B3sQ"  style="max-width: 100%;">
 </a>
 </td>
 <td>
