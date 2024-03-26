@@ -56,25 +56,20 @@
     <h2>About this Account</h2>
     <p>
       <a href="github.com/moutinho132" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
+        <img src="https://komarev.com/ghpvc/?username=moutinho132&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
       </a>
-      <a href="https://1999azzar.github.io/1999AZZAR/">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website">
+      <a href="https://1999azzar.github.io/moutinho132/">
+        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fmoutinho132.github.io%2Fmoutinho132%2F" height="25" alt="website">
       </a>
     </p>
     <p>
       <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main">
         <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor">
       </a>
-      <a href="github.com/1999AZZAR" target="_blank">
-        <img src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built">
+      <a href="github.com/moutinho132" target="_blank">
+        <img src="https://github.com/moutinho132/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built">
       </a>
-    </p>
-    <p>
-      <a href="github.com/1999AZZAR" target="_blank">
-        <img src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25" alt="license">
-      </a>
-    </p>
+    </p
   </div>
 </details>
 
