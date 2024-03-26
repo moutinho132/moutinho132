@@ -113,8 +113,8 @@
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE" rel="nofollow">
-<img src="https://camo.githubusercontent.com/6d9cdc08fcd3d2fdb133b227754445c4b4ae02b0bdd35d1d6bd43e3d1b92b538/687474703a2f2f69332e7974696d672e636f6d2f76692f3347796d4578426b4b6a452f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg" style="max-width: 100%;">
+<a href="https://youtu.be/jZjd6KWL07g?si=6ZcX9lUr4uCrEzL3" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(5).jpg" style="max-width: 100%;">
 </a>
 </td>
 </tr>
