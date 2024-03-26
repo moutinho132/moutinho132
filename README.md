@@ -131,23 +131,25 @@
 </a>
 </td>
 <td>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dOMsqfNMUys?si=IiMaQRy0cwi0JFLK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
+</a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/BQaxPwZWboA" rel="nofollow">
-<img src="https://camo.githubusercontent.com/ab66a89052ec28f54573d50a0827745ddcd014bb162b6f0a13dc6e29bd4b9af1/687474703a2f2f69332e7974696d672e636f6d2f76692f4251617850775a57626f412f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg" style="max-width: 100%;">
+<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/Wfh0FYR0z6I" rel="nofollow">
-<img src="https://camo.githubusercontent.com/1120e29005984dce9e07aa8fc282c059229bb295256246868d61df3ce9010714/687474703a2f2f69332e7974696d672e636f6d2f76692f57666830465952307a36492f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg" style="max-width: 100%;">
+<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/ebQphhLpJG0" rel="nofollow">
-<img src="https://camo.githubusercontent.com/5fd9d27b39037706896bd96eba51061fbbc76ef485fda8f9e90d73159cee5e20/687474703a2f2f69332e7974696d672e636f6d2f76692f6562517068684c704a47302f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg" style="max-width: 100%;">
+<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 </tr>
