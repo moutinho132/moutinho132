@@ -107,8 +107,12 @@
     <td><a href="https://youtu.be/cUIKl1UNF2I?si=5hV9J2nobn0O0a6S" rel="nofollow">
 <img src="https://github.com/moutinho132/profiletarts/blob/develop/Miniatura%20para%20youtube%20turismo%20moderna%20azul%20y%20naranja%20(1).png?raw=true"  style="max-width: auto;">
 </a></td>
-    <td>Cell 2</td>
-    <td>Cell 3</td>
+    <td><a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: auto;">
+</a></td>
+    <td><a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: auto;">
+</a></td>
   </tr>
   <tr>
     <td>Cell 4</td>
