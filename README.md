@@ -104,8 +104,8 @@
       <table>
 <tbody><tr>
 <td>
-<a href="[https://youtu.be/Kp4Mvapo5kc](https://youtu.be/BzM6FEN9X18?si=pfdkJkjQJe7RGhzY)" rel="nofollow">
-<img src="https://i.ytimg.com/an_webp/BzM6FEN9X18/mqdefault_6s.webp?du=3000&sqp=CO67jLAG&rs=AOn4CLDv8KPooWRFI5KX_HVn0TxM84B3sQ"  style="max-width: 100%;">
+<a href="https://youtu.be/cUIKl1UNF2I?si=5hV9J2nobn0O0a6S" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/Miniatura%20para%20youtube%20turismo%20moderna%20azul%20y%20naranja%20(1).png?raw=true"  style="max-width: 100%;">
 </a>
 </td>
 <td>
