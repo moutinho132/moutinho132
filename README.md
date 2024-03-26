@@ -114,42 +114,42 @@
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-MU0UHeiPfY?si=1aUqHjaxCVlk1vH8" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(2).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/BDDpBlzjiqk?si=o2F7KXI0VvHqJ9BS" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(3).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(4).jpg?raw=true" style="max-width: 100%;">
+<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
 </a>
 </td>
 </tr>
