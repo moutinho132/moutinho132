@@ -97,8 +97,6 @@
 <details>
   <summary>Youtube Channel Videos</summary>
   <br/>
-  <details open>
-  <summary>My Videos</summary>
   <div>
   <samp>
     <h2 align="center">Youtube Chanenel Videos</h2>
