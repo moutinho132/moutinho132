@@ -9,7 +9,7 @@
 
 <div align="center">
   <span>
-    <h1>Hello, I'm Fernando,</h1>
+    <h1>Hello, I'm Fernando Moutinho</h1>
     <h4>I'm a freelance backend developer. Please take a look at my <a href="" target="_blank">resume</a> for more information.</h4>
   </span>
 </div>
