@@ -119,38 +119,7 @@
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY" rel="nofollow">
-<img src="https://camo.githubusercontent.com/af382ce452e5db10741cc5db796bbf67923cf09056afa0eb15cea768621746d2/687474703a2f2f69332e7974696d672e636f6d2f76692f536176615536364b7851592f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg" style="max-width: 100%;">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
-<img src="https://camo.githubusercontent.com/b3b7deb029a1968d4ac23868e636af7b7025443b71c52b71e4deb1c6a1b1e9fd/687474703a2f2f69332e7974696d672e636f6d2f76692f476f4178736467305862732f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg" style="max-width: 100%;">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/pFyAu4R684s" rel="nofollow">
-<img src="https://camo.githubusercontent.com/5f5c234ec3f78aa6de11095149261975e9346e8a22f4ec48a84785f528e7b1df/687474703a2f2f69332e7974696d672e636f6d2f76692f70467941753452363834732f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg" style="max-width: 100%;">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/BQaxPwZWboA" rel="nofollow">
-<img src="https://camo.githubusercontent.com/ab66a89052ec28f54573d50a0827745ddcd014bb162b6f0a13dc6e29bd4b9af1/687474703a2f2f69332e7974696d672e636f6d2f76692f4251617850775a57626f412f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg" style="max-width: 100%;">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/Wfh0FYR0z6I" rel="nofollow">
-<img src="https://camo.githubusercontent.com/1120e29005984dce9e07aa8fc282c059229bb295256246868d61df3ce9010714/687474703a2f2f69332e7974696d672e636f6d2f76692f57666830465952307a36492f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg" style="max-width: 100%;">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/ebQphhLpJG0" rel="nofollow">
-<img src="https://camo.githubusercontent.com/5fd9d27b39037706896bd96eba51061fbbc76ef485fda8f9e90d73159cee5e20/687474703a2f2f69332e7974696d672e636f6d2f76692f6562517068684c704a47302f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg" style="max-width: 100%;">
-</a>
-</td>
+
 </tr>
 </tbody></table>
 
