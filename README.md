@@ -120,8 +120,6 @@
   </tr>
 </table>
 
-    </p>
-    </samp>
   </div>
 </details> 
 <details>
