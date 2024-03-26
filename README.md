@@ -8,6 +8,11 @@
 <body>
 
 <div align="center">
+  <div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://raw.githubusercontent.com/moutinho132/profiletarts/develop/Github_Banner.png" alt="banner">
+  </a>
+</div>
   <span>
     <h1>Hello, I'm Fernando Moutinho</h1>
     <h4>I'm a freelance backend developer. Please take a look at my <a href="" target="_blank">resume</a> for more information.</h4>
