@@ -110,19 +110,17 @@
     <td><a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
 <img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: auto;">
 </a></td>
-    <td><a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: auto;">
-</a></td>
+
   </tr>
   <tr>
     <td>Cell 4</td>
     <td>Cell 5</td>
-    <td>Cell 6</td>
+  
   </tr>
    <tr>
     <td>Cell 7</td>
     <td>Cell 8</td>
-    <td>Cell 9</td>
+   
   </tr>
 </table>
 
