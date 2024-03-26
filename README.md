@@ -102,27 +102,60 @@
     <h2 align="center">Youtube Channel Videos</h2>
     <p align="center">
 
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Algunos vídeos en YouTube:</h2><a id="user-content-algunos-vídeos-en-youtube" class="anchor" aria-label="Permalink: Algunos vídeos en YouTube:" href="#algunos-vídeos-en-youtube"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <table>
-  <tr>
-    <td><a href="https://youtu.be/cUIKl1UNF2I?si=5hV9J2nobn0O0a6S" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/Miniatura%20para%20youtube%20turismo%20moderna%20azul%20y%20naranja%20(1).png?raw=true"  style="max-width: 100%;">
-</a></td>
-    <td><a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg?raw=true" style="max-width: 100%;">
-</a></td>
-
-  </tr>
-  <tr>
-    <td>Cell 4</td>
-    <td>Cell 5</td>
-  
-  </tr>
-   <tr>
-    <td>Cell 7</td>
-    <td>Cell 8</td>
-   
-  </tr>
-</table>
+<tbody><tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc" rel="nofollow">
+<img src="https://camo.githubusercontent.com/81477b4578bab956813ff058efc42874f6e0b54a0006dec3fba00e6c15e66559/687474703a2f2f69332e7974696d672e636f6d2f76692f4b70344d7661706f356b632f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/-pWSQYpkkjk" rel="nofollow">
+<img src="https://camo.githubusercontent.com/b1d2ebd3e88dafb4b267a9c4cc6a7af7f0c7c525a1aede11a58e4c5d24d0bb06/687474703a2f2f69332e7974696d672e636f6d2f76692f2d7057535159706b6b6a6b2f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/3GymExBkKjE" rel="nofollow">
+<img src="https://camo.githubusercontent.com/6d9cdc08fcd3d2fdb133b227754445c4b4ae02b0bdd35d1d6bd43e3d1b92b538/687474703a2f2f69332e7974696d672e636f6d2f76692f3347796d4578426b4b6a452f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY" rel="nofollow">
+<img src="https://camo.githubusercontent.com/af382ce452e5db10741cc5db796bbf67923cf09056afa0eb15cea768621746d2/687474703a2f2f69332e7974696d672e636f6d2f76692f536176615536364b7851592f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/GoAxsdg0Xbs" rel="nofollow">
+<img src="https://camo.githubusercontent.com/b3b7deb029a1968d4ac23868e636af7b7025443b71c52b71e4deb1c6a1b1e9fd/687474703a2f2f69332e7974696d672e636f6d2f76692f476f4178736467305862732f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/pFyAu4R684s" rel="nofollow">
+<img src="https://camo.githubusercontent.com/5f5c234ec3f78aa6de11095149261975e9346e8a22f4ec48a84785f528e7b1df/687474703a2f2f69332e7974696d672e636f6d2f76692f70467941753452363834732f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/BQaxPwZWboA" rel="nofollow">
+<img src="https://camo.githubusercontent.com/ab66a89052ec28f54573d50a0827745ddcd014bb162b6f0a13dc6e29bd4b9af1/687474703a2f2f69332e7974696d672e636f6d2f76692f4251617850775a57626f412f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/Wfh0FYR0z6I" rel="nofollow">
+<img src="https://camo.githubusercontent.com/1120e29005984dce9e07aa8fc282c059229bb295256246868d61df3ce9010714/687474703a2f2f69332e7974696d672e636f6d2f76692f57666830465952307a36492f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/ebQphhLpJG0" rel="nofollow">
+<img src="https://camo.githubusercontent.com/5fd9d27b39037706896bd96eba51061fbbc76ef485fda8f9e90d73159cee5e20/687474703a2f2f69332e7974696d672e636f6d2f76692f6562517068684c704a47302f6d617872657364656661756c742e6a7067" data-canonical-src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg" style="max-width: 100%;">
+</a>
+</td>
+</tr>
+</tbody></table>
 
   </div>
 </details> 
