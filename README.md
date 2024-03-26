@@ -101,25 +101,27 @@
 
 <h2 align="center">Youtube Channel Videos</h2>
 <table>
-<tbody><tr>
-<td>
-<a href="https://youtu.be/cUIKl1UNF2I?si=5hV9J2nobn0O0a6S" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/Miniatura%20para%20youtube%20turismo%20moderna%20azul%20y%20naranja%20(1).png" style="max-width: 100%;">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg" style="max-width: 100%;">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/jZjd6KWL07g?si=6ZcX9lUr4uCrEzL3" rel="nofollow">
-<img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(5).jpg" style="max-width: 100%;">
-</a>
-</td>
+<tbody>
+  <tr>
+    <td>
+    <a href="https://youtu.be/cUIKl1UNF2I?si=5hV9J2nobn0O0a6S" rel="nofollow">
+    <img src="https://github.com/moutinho132/profiletarts/blob/develop/Miniatura%20para%20youtube%20turismo%20moderna%20azul%20y%20naranja%20(1).png" style="max-width: 100%;">
+    </a>
+    </td>
+    <td>
+    <a href="https://youtu.be/WJnsWCL3uD0?si=zFRLihtKi-0L8V_C" rel="nofollow">
+    <img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(1).jpg" style="max-width: 100%;">
+    </a>
+    </td>
+    <td>
+    <a href="https://youtu.be/jZjd6KWL07g?si=6ZcX9lUr4uCrEzL3" rel="nofollow">
+    <img src="https://github.com/moutinho132/profiletarts/blob/develop/unnamed%20(5).jpg" style="max-width: 100%;">
+    </a>
+    </td>
 </tr>
 
-</tbody></table>
+</tbody>
+</table>
 
   </div>
 </details> 
