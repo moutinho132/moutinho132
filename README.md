@@ -51,29 +51,6 @@
 </details>
 
 <details>
-  <summary>About 🫣</summary>
-  <div align="center">
-    <h2>About this Account</h2>
-    <p>
-      <a href="github.com/moutinho132" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=moutinho132&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
-      </a>
-      <a href="https://1999azzar.github.io/moutinho132/">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fmoutinho132.github.io%2Fmoutinho132%2F" height="25" alt="website">
-      </a>
-    </p>
-    <p>
-      <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main">
-        <img src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor">
-      </a>
-      <a href="github.com/moutinho132" target="_blank">
-        <img src="https://github.com/moutinho132/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built">
-      </a>
-    </p
-  </div>
-</details>
-
-<details>
   <summary>GitHub Profile Stats 💻</summary>
   <div align="center">
     <h2>GitHub Stats</h2>
