@@ -104,7 +104,9 @@
 
 <table>
   <tr>
-    <td>Cell 1</td>
+    <td><a href="https://youtu.be/cUIKl1UNF2I?si=5hV9J2nobn0O0a6S" rel="nofollow">
+<img src="https://github.com/moutinho132/profiletarts/blob/develop/Miniatura%20para%20youtube%20turismo%20moderna%20azul%20y%20naranja%20(1).png?raw=true"  style="max-width: auto;">
+</a></td>
     <td>Cell 2</td>
     <td>Cell 3</td>
   </tr>
