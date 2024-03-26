@@ -114,10 +114,10 @@
   </div>
 </details> 
 <details>
-  <summary>global 🌏</summary>
+  <summary>Youtube Channel Videos</summary>
   <br/>
   <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
+  <summary>My Videos</summary>
   <div>
   <samp>
     <h2 align="center">Youtube Chanenel Videos</h2>
