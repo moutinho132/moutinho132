@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="azzar" height="30">
       </a>
        <a href="https://www.youtube.com/@fmoutinhodev/" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/:UC98MwxAosbi3-g0P2KlBr8g" alt="azzar" height="30">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC98MwxAosbi3-g0P2KlBr8g?style=social" alt="azzar" height="30">
       </a>
     </p>
   </div>
